@@ -53,8 +53,14 @@ This is a personal collection of announcements and updates from **Microsoft Igni
           *AI-assisted cloud migration assessment and execution*
         - [Migrate Agent Demos](https://techcommunity.microsoft.com/blog/azuremigrationblog/azure-copilot-migration-agent---bringing-agentic-migration-and-modernization-to-/4471329)  
           *Hands-on demonstrations of migration automation capabilities*
+        - [Resiliency Agent](https://learn.microsoft.com/en-us/azure/copilot/resiliency-agent)  
+          *AI agent for proactive resilience monitoring and recommendations*
+        - [Troubleshooting Agent](https://learn.microsoft.com/en-us/azure/copilot/troubleshooting-agent)  
+          *AI-powered diagnostic and problem resolution assistance*
     - [Azure Monitor Coverage Insights](https://techcommunity.microsoft.com/blog/azureobservabilityblog/introducing-monitoring-coverage-assess-and-improve-your-monitoring-posture-at-sc/4470752)  
       *Assess and improve monitoring posture at scale across Azure resources*
+    - [Azure Copilot Observability Agent](https://techcommunity.microsoft.com/blog/azureobservabilityblog/azure-copilot-observability-agent-intelligent-investigations-across-your-azure-s/4469719)  
+      *AI-powered intelligent investigations and troubleshooting across Azure services*
     - [Admin Center Virtualization Mode](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/introducing-windows-admin-center-virtualization-mode-vmode/4471024)  
       *Enhanced Windows Admin Center capabilities for virtualized environments*
     - [Kubernetes Center](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-kubernetes-center-preview-on-azure-portal/4471110)  
