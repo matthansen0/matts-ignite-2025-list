@@ -200,7 +200,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Latest version of Microsoft's flagship database platform*
     - [NextGen SQL Managed Instance General Purpose - GA](https://techcommunity.microsoft.com/blog/AzureSQLBlog/generally-available-azure-sql-managed-instance-next-gen-general-purpose/4470970)  
       *Enhanced managed instance with improved performance and cost optimization*
-    - [Backup Immutability for Long-term Retention in Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/backup-immutability?view=azuresql)  
+    - [Backup Immutability for Long-term Retention in Azure SQL](https://techcommunity.microsoft.com/blog/azuresqlblog/azure-sql-database-ltr-backup-immutability-is-now-generally-available/4471457)  
       *Tamper-proof backup protection for compliance and security*
 
 - **Microsoft Fabric:
