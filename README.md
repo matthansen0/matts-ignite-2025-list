@@ -25,20 +25,31 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 ### Key Announcements
 
 - **Storage:**
-    - [Vaulted Backup for ADLS](https://azure.microsoft.com/en-us/updates/?id=523975) - Immutable backup protection for Azure Data Lake Storage
-    - [ANF 7.2 PB Cool Tier Volumes](https://azure.microsoft.com/en-us/updates/?id=516656) - Azure NetApp Files massive capacity cool storage tier
-    - [ANF 2 PB & 50 GBps "breakthrough" mode](https://azure.microsoft.com/en-us/updates/?id=525150) - Azure NetApp Files ultra-high performance configuration
-    - [Lustre vNext - 25PB and 512 GBps](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/announcing-the-public-preview-of-amlfs-20-azure-managed-lustre-new-sku-for-massi/4470665) - Azure Managed Lustre 2.0 for massive scale HPC workloads
-    - [Azure Blob Smart Tiering](https://techcommunity.microsoft.com/blog/azurestorageblog/unlocking-storage-optimizations-smart-tiering-for-blobs-and-adls-in-azure-storag/4469811) - Automated lifecycle management for blob storage optimization
+    - [Vaulted Backup for ADLS](https://azure.microsoft.com/en-us/updates/?id=523975)  
+      *Immutable backup protection for Azure Data Lake Storage*
+    - [ANF 7.2 PB Cool Tier Volumes](https://azure.microsoft.com/en-us/updates/?id=516656)  
+      *Azure NetApp Files massive capacity cool storage tier*
+    - [ANF 2 PB & 50 GBps "breakthrough" mode](https://azure.microsoft.com/en-us/updates/?id=525150)  
+      *Azure NetApp Files ultra-high performance configuration*
+    - [Lustre vNext - 25PB and 512 GBps](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/announcing-the-public-preview-of-amlfs-20-azure-managed-lustre-new-sku-for-massi/4470665)  
+      *Azure Managed Lustre 2.0 for massive scale HPC workloads*
+    - [Azure Blob Smart Tiering](https://techcommunity.microsoft.com/blog/azurestorageblog/unlocking-storage-optimizations-smart-tiering-for-blobs-and-adls-in-azure-storag/4469811)  
+      *Automated lifecycle management for blob storage optimization*
 
 - **Operations:**
     - [Azure Infra, Data & Cyber Resiliency](https://techcommunity.microsoft.com/blog/azurearchitectureblog/azure-resiliency-proactive-continuity-with-agentic-experiences-and-frontier-inno/4469693)
-    - [Operations Center in Machine Configuration Management](https://techcommunity.microsoft.com/blog/azurearcblog/unified-configuration-and-governance-for-azure-windows-server-and-linux-server/4469769) - Unified governance for Azure Arc-enabled servers
-    - [Capacity Guidance in ASR](https://azure.microsoft.com/en-us/updates/?id=530073) | [Documentation](https://learn.microsoft.com/en-us/azure/site-recovery/alternative-vm-size-failover-flow) - Azure Site Recovery intelligent VM sizing recommendations
-    - [Agentic Cloud Operations with Azure Copilot & Custom Azure Copilot Agents](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/ushering-in-the-era-of-agentic-cloud-operations-with-azure-copilot/4469664) - AI-powered autonomous cloud infrastructure management
-        - [Deployment Agent](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-deployment-capabilities-preview-in-azure-copilot/4471169) - Automated Azure resource deployment and configuration
-        - [Migrate Agent](https://techcommunity.microsoft.com/blog/azuremigrationblog/migration-agent---unlocking-transformation/4470205) - AI-assisted cloud migration assessment and execution
-        - [Migrate Agent Demos](https://techcommunity.microsoft.com/blog/azuremigrationblog/azure-copilot-migration-agent---bringing-agentic-migration-and-modernization-to-/4471329) - Hands-on demonstrations of migration automation capabilities
+    - [Operations Center in Machine Configuration Management](https://techcommunity.microsoft.com/blog/azurearcblog/unified-configuration-and-governance-for-azure-windows-server-and-linux-server/4469769)  
+      *Unified governance for Azure Arc-enabled servers*
+    - [Capacity Guidance in ASR](https://azure.microsoft.com/en-us/updates/?id=530073) | [Documentation](https://learn.microsoft.com/en-us/azure/site-recovery/alternative-vm-size-failover-flow)  
+      *Azure Site Recovery intelligent VM sizing recommendations*
+    - [Agentic Cloud Operations with Azure Copilot & Custom Azure Copilot Agents](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/ushering-in-the-era-of-agentic-cloud-operations-with-azure-copilot/4469664)  
+      *AI-powered autonomous cloud infrastructure management*
+        - [Deployment Agent](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-deployment-capabilities-preview-in-azure-copilot/4471169)  
+          *Automated Azure resource deployment and configuration*
+        - [Migrate Agent](https://techcommunity.microsoft.com/blog/azuremigrationblog/migration-agent---unlocking-transformation/4470205)  
+          *AI-assisted cloud migration assessment and execution*
+        - [Migrate Agent Demos](https://techcommunity.microsoft.com/blog/azuremigrationblog/azure-copilot-migration-agent---bringing-agentic-migration-and-modernization-to-/4471329)  
+          *Hands-on demonstrations of migration automation capabilities*
     - [Azure Monitor Coverage Insights](https://techcommunity.microsoft.com/blog/azureobservabilityblog/introducing-monitoring-coverage-assess-and-improve-your-monitoring-posture-at-sc/4470752)
     - [Admin Center Virtualization Mode](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/introducing-windows-admin-center-virtualization-mode-vmode/4471024)
     - [Kubernetes Center](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-kubernetes-center-preview-on-azure-portal/4471110)
@@ -47,16 +58,24 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - **New VM SKUs:**
         - [DLsv7, DSv7, and ESv7 VMs based on Intel® Xeon® 6](https://techcommunity.microsoft.com/blog/azurecompute/announcing-preview-of-new-azure-dlsv7-dsv7-and-esv7-vms-based-on-intel%C2%AE-xeon%C2%AE-6-/4467928)
         - [EBSv6 VMs based on 5th Gen Intel® Xeon®](https://techcommunity.microsoft.com/blog/azurecompute/announcing-the-preview-of-the-new-azure-ebsv6-vms-based-on-the-5th-gen-intel%C2%AE-xe/4470139)
-        - [Azure Intel® TDX Confidential VMs](https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/azure-intel%C2%AE-tdx-confidential-vms-momentum/4470736) - Trust Domain Extensions for hardware-based confidential computing
-        - [ND GB300 v6 - Hyper-optimized for Generative AI](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/azure-nd-gb300-v6-now-generally-available---hyper-optimized-for-generative-and-a/4469475) - GPU VMs with NVIDIA GB300 for AI/ML training and inference
-        - [NCv6 RTX PRO 6000 Blackwell](https://azure.microsoft.com/en-us/updates/?id=530208) - Professional GPU VMs with latest NVIDIA Blackwell architecture
-    - [Azure Boost Enhancements](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/powering-modern-cloud-workloads-with-azure-boost-ignite-2025/4470793) - Hardware acceleration for improved VM performance and efficiency
-    - [Azure Cobalt 200 - Next Cloud Native CPU](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-cobalt-200-azure%E2%80%99s-next-cloud-native-cpu/4469807) - Microsoft's custom Arm-based processor for cloud workloads
+        - [Azure Intel® TDX Confidential VMs](https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/azure-intel%C2%AE-tdx-confidential-vms-momentum/4470736)  
+          *Trust Domain Extensions for hardware-based confidential computing*
+        - [ND GB300 v6 - Hyper-optimized for Generative AI](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/azure-nd-gb300-v6-now-generally-available---hyper-optimized-for-generative-and-a/4469475)  
+          *GPU VMs with NVIDIA GB300 for AI/ML training and inference*
+        - [NCv6 RTX PRO 6000 Blackwell](https://azure.microsoft.com/en-us/updates/?id=530208)  
+          *Professional GPU VMs with latest NVIDIA Blackwell architecture*
+    - [Azure Boost Enhancements](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/powering-modern-cloud-workloads-with-azure-boost-ignite-2025/4470793)  
+      *Hardware acceleration for improved VM performance and efficiency*
+    - [Azure Cobalt 200 - Next Cloud Native CPU](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-cobalt-200-azure%E2%80%99s-next-cloud-native-cpu/4469807)  
+      *Microsoft's custom Arm-based processor for cloud workloads*
 
 - **Adaptive Cloud:**
-    - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704) - AI-powered video analytics for edge computing scenarios
-    - [Azure Local - Cloud Infrastructure for Distributed Locations](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773) - Hyperconverged infrastructure solution for edge and remote sites
-    - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975) - Resource discovery and assessment for hybrid cloud migrations
+    - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704)  
+      *AI-powered video analytics for edge computing scenarios*
+    - [Azure Local - Cloud Infrastructure for Distributed Locations](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773)  
+      *Hyperconverged infrastructure solution for edge and remote sites*
+    - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975)  
+      *Resource discovery and assessment for hybrid cloud migrations*
     - [SQL Server Migration in Azure Arc - GA](https://techcommunity.microsoft.com/blog/microsoftdatamigration/sql-server-migration-in-azure-arc-%E2%80%93-generally-available/4471020)
     - [Arc Multi-Cloud Updates](https://techcommunity.microsoft.com/blog/azurearcblog/expanding-azure-arc-for-hybrid-and-multicloud-management/4470656)
     - [AKS Fleet Manager with Arc-enabled Kubernetes Clusters](https://learn.microsoft.com/en-us/azure/kubernetes-fleet/concepts-fleet-arc-integration)
@@ -64,8 +83,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [AVD Hybrid Deployment Options](https://techcommunity.microsoft.com/blog/azurevirtualdesktopblog/announcing-new-hybrid-deployment-options-for-azure-virtual-desktop/4468781)
 
 - **Networking:**
-    - [NAT Gateway v2 - StandardV2 NAT Gateway and StandardV2 Public IP](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-the-public-preview-of-standardv2-nat-gateway-and-standardv2-public-ip/4458292) - Next-generation network address translation with enhanced performance
-    - [ExpressRoute Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway) - High-performance private connectivity gateway for enterprise networks
+    - [NAT Gateway v2 - StandardV2 NAT Gateway and StandardV2 Public IP](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-the-public-preview-of-standardv2-nat-gateway-and-standardv2-public-ip/4458292)  
+      *Next-generation network address translation with enhanced performance*
+    - [ExpressRoute Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)  
+      *High-performance private connectivity gateway for enterprise networks*
 
 - **Misc:**
     - **IoT Announcements:**
@@ -84,9 +105,12 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Client Side App Configurations in Front Door](https://techcommunity.microsoft.com/blog/appsonazureblog/unlocking-client-side-configuration-at-scale-with-azure-app-configuration-and-az/4470781)
 
 - **Azure Kubernetes Service (AKS):**
-    - [Agentic CLI for AKS - Updates](https://azure.microsoft.com/en-us/updates/?id=523062) | [Documentation](https://learn.microsoft.com/en-us/azure/aks/cli-agent-for-aks-overview) - AI-powered command line interface for Kubernetes cluster management
-    - [Pod Sandboxing in AKS](https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing) - Enhanced container isolation using hardware-based security boundaries
-    - [Managed System Node Pools in AKS Automatic](https://learn.microsoft.com/en-us/azure/aks/automatic/aks-automatic-managed-system-node-pools-about) - Automated system workload management in AKS clusters
+    - [Agentic CLI for AKS - Updates](https://azure.microsoft.com/en-us/updates/?id=523062) | [Documentation](https://learn.microsoft.com/en-us/azure/aks/cli-agent-for-aks-overview)  
+      *AI-powered command line interface for Kubernetes cluster management*
+    - [Pod Sandboxing in AKS](https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing)  
+      *Enhanced container isolation using hardware-based security boundaries*
+    - [Managed System Node Pools in AKS Automatic](https://learn.microsoft.com/en-us/azure/aks/automatic/aks-automatic-managed-system-node-pools-about)  
+      *Automated system workload management in AKS clusters*
 
 - **Azure Functions:**
     - [Azure Functions Ignite 2025 Update](https://techcommunity.microsoft.com/blog/appsonazureblog/azure-functions-ignite-2025-update/4469815)
@@ -119,8 +143,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [The New Frontier of Data for the Next Generation of Innovation](https://techcommunity.microsoft.com/blog/azuredatablog/the-new-frontier-of-data-for-the-next-generation-of-innovation/4463236)
 
 - **PostgreSQL Services:**
-    - [Azure HorizonDB - Announcement](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-azure-horizondb/4469710) - Next-generation PostgreSQL-compatible database service
-    - [Build Smarter with Azure HorizonDB](https://techcommunity.microsoft.com/blog/adforpostgresql/build-smarter-with-azure-horizondb/4470302) - Development capabilities and AI integration with HorizonDB
+    - [Azure HorizonDB - Announcement](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-azure-horizondb/4469710)  
+      *Next-generation PostgreSQL-compatible database service*
+    - [Build Smarter with Azure HorizonDB](https://techcommunity.microsoft.com/blog/adforpostgresql/build-smarter-with-azure-horizondb/4470302)  
+      *Development capabilities and AI integration with HorizonDB*
     - [PostgreSQL for the Enterprise - Scale, Secure, Simplify](https://techcommunity.microsoft.com/blog/adforpostgresql/postgresql-for-the-enterprise-scale-secure-simplify/4470412)
     - [PostgreSQL Mirroring in Fabric](https://learn.microsoft.com/en-us/fabric/mirroring/azure-database-postgresql)
 
@@ -159,7 +185,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **Microsoft Foundry Platform:**
     - [Accelerating Enterprise AI with Microsoft Foundry - Ignite Day 1 Recap](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/accelerating-enterprise-ai-with-microsoft-foundry/4471122)
     - [Foundry Control Plane - Build, Operate, and Govern Every Agent](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-control-plane-where-developers-build-operate-and-govern-every-agent/4467885)
-    - [Foundry IQ - Boost Response Relevance by 36% with Agentic Retrieval](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-boost-response-relevance-by-36-with-agentic-retrieval/4470720) - AI-powered retrieval system for enhanced response accuracy
+    - [Foundry IQ - Boost Response Relevance by 36% with Agentic Retrieval](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-boost-response-relevance-by-36-with-agentic-retrieval/4470720)  
+      *AI-powered retrieval system for enhanced response accuracy*
 
 - **AI Agent Services:**
     - [Foundry Agent Service - Simple to Build, Powerful to Deploy, Trusted](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-agent-service-at-ignite-2025-simple-to-build-powerful-to-deploy-trusted-/4469788)
@@ -192,8 +219,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Microsoft Defender for Cloud Innovations at Ignite 2025](https://techcommunity.microsoft.com/blog/MicrosoftDefenderCloudBlog/microsoft-defender-for-cloud-innovations-at-ignite-2025/4469386)
 
 - **AI Security & Governance:**
-    - [Agent 365 - Security Dashboard for AI](https://techcommunity.microsoft.com/blog/microsoft-security-blog/security-as-the-core-primitive-in-the-agentic-era-new-innovations-to-secure-ai-a/4470197) - Comprehensive security monitoring and governance for AI agents
-    - [Security as the Core Primitive in the Agentic Era](https://techcommunity.microsoft.com/blog/microsoft-security-blog/security-as-the-core-primitive-in-the-agentic-era-new-innovations-to-secure-ai-a/4470197) - Security framework for AI-powered applications and autonomous systems
+    - [Agent 365 - Security Dashboard for AI](https://techcommunity.microsoft.com/blog/microsoft-security-blog/security-as-the-core-primitive-in-the-agentic-era-new-innovations-to-secure-ai-a/4470197)  
+      *Comprehensive security monitoring and governance for AI agents*
+    - [Security as the Core Primitive in the Agentic Era](https://techcommunity.microsoft.com/blog/microsoft-security-blog/security-as-the-core-primitive-in-the-agentic-era-new-innovations-to-secure-ai-a/4470197)  
+      *Security framework for AI-powered applications and autonomous systems*
 
 ### Notable Updates
 
