@@ -40,7 +40,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 
 - **Operations:**
     - [Azure Infra, Data & Cyber Resiliency](https://techcommunity.microsoft.com/blog/azurearchitectureblog/azure-resiliency-proactive-continuity-with-agentic-experiences-and-frontier-inno/4469693)  
-      *Proactive continuity with agentic experiences and frontier innovations*
+      *Proactive continuity with agentic experiences multi-update blog*
     - [Operations Center in Machine Configuration Management](https://techcommunity.microsoft.com/blog/azurearcblog/unified-configuration-and-governance-for-azure-windows-server-and-linux-server/4469769)  
       *Unified governance for Azure Arc-enabled servers*
     - [Capacity Guidance in ASR](https://azure.microsoft.com/en-us/updates/?id=530073) | [Documentation](https://learn.microsoft.com/en-us/azure/site-recovery/alternative-vm-size-failover-flow)  
@@ -81,7 +81,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704)  
       *AI-powered video analytics for edge computing scenarios*
     - [What's new in Azure Local](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773)  
-      *New Hardware, GPU Support, VMWare Migration, Rack-Aware Clustering, and SAN support. *
+      *New Hardware, GPU Support, VMWare Migration, Rack-Aware Clustering, and SAN support.*
     - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975)  
       *Resource discovery and assessment for hybrid cloud migrations*
     - [SQL Server Migration in Azure Arc - GA](https://techcommunity.microsoft.com/blog/microsoftdatamigration/sql-server-migration-in-azure-arc-%E2%80%93-generally-available/4471020)  
