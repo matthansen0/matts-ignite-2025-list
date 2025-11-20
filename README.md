@@ -29,10 +29,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **Storage:**
     - [Vaulted Backup for ADLS](https://azure.microsoft.com/en-us/updates/?id=523975)  
       *Immutable backup protection for Azure Data Lake Storage*
-    - [ANF 7.2 PB Cool Tier Volumes](https://azure.microsoft.com/en-us/updates/?id=516656)  
-      *Azure NetApp Files massive capacity cool storage tier*
-    - [ANF 2 PB & 50 GBps "breakthrough" mode](https://azure.microsoft.com/en-us/updates/?id=525150)  
-      *Azure NetApp Files ultra-high performance configuration*
+    - [Netapp Files Capacity & Performance Enhancements - Ignite 2025](https://techcommunity.microsoft.com/blog/azurearchitectureblog/accelerating-hpc-and-eda-with-powerful-azure-netapp-files-enhancements/4469739)  
+      *Azure NetApp Files massive capacity cool storage tier and ultra-high performance configuration*
     - [Lustre vNext - 25PB and 512 GBps](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/announcing-the-public-preview-of-amlfs-20-azure-managed-lustre-new-sku-for-massi/4470665)  
       *Azure Managed Lustre 2.0 for massive scale HPC workloads*
     - [Azure Blob Smart Tiering](https://techcommunity.microsoft.com/blog/azurestorageblog/unlocking-storage-optimizations-smart-tiering-for-blobs-and-adls-in-azure-storag/4469811)  
@@ -200,6 +198,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Enterprise-grade PostgreSQL capabilities with enhanced security and scale*
     - [PostgreSQL Mirroring in Fabric](https://learn.microsoft.com/en-us/fabric/mirroring/azure-database-postgresql)  
       *Real-time data replication from PostgreSQL to Microsoft Fabric*
+
+- **MySQL Services:**
+    - [Ignite 2025: Advancing Azure Database for MySQL](https://techcommunity.microsoft.com/blog/adformysql/ignite-2025-advancing-azure-database-for-mysql-with-powerful-new-capabilities/4470824)  
+      *Enhanced MySQL database service with new performance and feature improvements*
 
 - **Cosmos DB & Document Services:**
     - [Azure Document DB - Generally Available](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-is-now-generally-available/)  
