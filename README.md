@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 19, 2025 at 4:18PM EST
+**Last Updated:** November 20, 2025 at 6:05AM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -84,22 +84,24 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Microsoft's custom Arm-based processor for cloud workloads*
 
 - **Adaptive Cloud:**
-    - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704)  
-      *AI-powered video analytics for edge computing scenarios*
     - [What's new in Azure Local](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773)  
       *New Hardware, GPU Support, VMWare Migration, Rack-Aware Clustering, and SAN support.*
-    - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975)  
-      *Resource discovery and assessment for hybrid cloud migrations*
-    - [SQL Server Migration in Azure Arc - GA](https://techcommunity.microsoft.com/blog/microsoftdatamigration/sql-server-migration-in-azure-arc-%E2%80%93-generally-available/4471020)  
-      *Generally available database migration service for hybrid SQL deployments*
     - [Arc Multi-Cloud Updates](https://techcommunity.microsoft.com/blog/azurearcblog/expanding-azure-arc-for-hybrid-and-multicloud-management/4470656)  
       *Enhanced hybrid and multi-cloud resource management capabilities, adding GCP.*
-    - [AKS Fleet Manager with Arc-enabled Kubernetes Clusters](https://learn.microsoft.com/en-us/azure/kubernetes-fleet/concepts-fleet-arc-integration)  
-      *Centralized management for Kubernetes clusters across hybrid environments*
+    - [What's new in AKS Enabled by Azure Arc - Ignite 2025](https://techcommunity.microsoft.com/blog/azurearcblog/aks-enabled-by-azure-arc-powering-ai-applications-from-cloud-to-edge-ignite-2025/4471511)  
+      *Kubernetes platform for AI workloads across cloud, edge, and hybrid environments*
     - [Foundry Local on Windows Server](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/microsoft-foundry-on-windows-server/4471093)  
       *AI platform capabilities deployed locally on Windows Server infrastructure*
+    - [AKS Fleet Manager with Arc-enabled Kubernetes Clusters](https://learn.microsoft.com/en-us/azure/kubernetes-fleet/concepts-fleet-arc-integration)  
+      *Centralized management for Kubernetes clusters across hybrid environments*
+    - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975)  
+      *Resource discovery and assessment for hybrid cloud migrations*
     - [AVD Hybrid Deployment Options](https://techcommunity.microsoft.com/blog/azurevirtualdesktopblog/announcing-new-hybrid-deployment-options-for-azure-virtual-desktop/4468781)  
       *New deployment models for Azure Virtual Desktop in hybrid environments*
+    - [SQL Server Migration in Azure Arc - GA](https://techcommunity.microsoft.com/blog/microsoftdatamigration/sql-server-migration-in-azure-arc-%E2%80%93-generally-available/4471020)  
+      *Generally available database migration service for hybrid SQL deployments*
+    - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704)  
+      *AI-powered video analytics for edge computing scenarios*
 
 - **Networking:**
     - [NAT Gateway v2 - StandardV2 NAT Gateway and StandardV2 Public IP](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-the-public-preview-of-standardv2-nat-gateway-and-standardv2-public-ip/4458292)  
