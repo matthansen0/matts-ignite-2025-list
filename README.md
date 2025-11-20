@@ -116,6 +116,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Next-generation network address translation with enhanced performance*
     - [ExpressRoute Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)  
       *Scalable ExR gatways without having to swap to a new instance or have downtime*
+    - [Azure DNS Security Policy with Threat Intelligence Feed - General Availability](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-azure-dns-security-policy-with-threat-intelligence-feed-general-avail/4470183)  
+      *DNS-based threat protection using Microsoft threat intelligence for enhanced security*
 
 - **Misc:**
     - **IoT Announcements:**
