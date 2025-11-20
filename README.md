@@ -63,6 +63,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *AI-powered intelligent investigations and troubleshooting across Azure services*
     - [Azure Monitor Private Link Scope (AMPLS) Scale Limits - General Availability](https://techcommunity.microsoft.com/blog/azureobservabilityblog/generally-available---azure-monitor-private-link-scope-ampls-scale-limits-increa/4471482)  
       *Increased scale limits for private connectivity to Azure Monitor services*
+    - [Simplified Application Monitoring for AKS with Azure Monitor - Public Preview](https://techcommunity.microsoft.com/blog/azureobservabilityblog/simplify-application-monitoring-for-aks-with-azure-monitor-public-preview/4470136)  
+      *Streamlined application observability and monitoring for Azure Kubernetes Service*
     - [Admin Center Virtualization Mode](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/introducing-windows-admin-center-virtualization-mode-vmode/4471024)  
       *Enhanced Windows Admin Center capabilities for virtualized environments*
     - [Kubernetes Center](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-kubernetes-center-preview-on-azure-portal/4471110)  
