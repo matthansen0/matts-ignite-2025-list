@@ -139,6 +139,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Managed System Node Pools in AKS Automatic](https://learn.microsoft.com/en-us/azure/aks/automatic/aks-automatic-managed-system-node-pools-about)  
       *Automated system workload management in AKS clusters*
 
+- **Azure Container Apps:**
+    - [What's New in Azure Container Apps at Ignite25](https://techcommunity.microsoft.com/blog/appsonazureblog/whats-new-in-azure-container-apps-at-ignite25/4470391)  
+      *Latest updates and enhancements to the serverless container platform*
+
 - **Azure Functions:**
     - [Azure Functions Ignite 2025 Update](https://techcommunity.microsoft.com/blog/appsonazureblog/azure-functions-ignite-2025-update/4469815)  
       *Latest serverless computing enhancements and new capabilities*
