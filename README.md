@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 20, 2025 at 11:16AM EST
+**Last Updated:** November 20, 2025 at 12:37PM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -37,6 +37,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Azure Managed Lustre 2.0 for massive scale HPC workloads*
     - [Azure Blob Smart Tiering](https://techcommunity.microsoft.com/blog/azurestorageblog/unlocking-storage-optimizations-smart-tiering-for-blobs-and-adls-in-azure-storag/4469811)  
       *Automated lifecycle management for blob storage optimization*
+    - [Azure Files Entra-Only Secure Access](https://techcommunity.microsoft.com/blog/azurestorageblog/cloud-native-identity-with-azure-files-entra-only-secure-access-for-the-modern-e/4469778)  
+      *Cloud-native identity with Entra-only authentication for modern enterprise file shares*
 
 - **Operations:**
     - [Azure Infra, Data & Cyber Resiliency](https://techcommunity.microsoft.com/blog/azurearchitectureblog/azure-resiliency-proactive-continuity-with-agentic-experiences-and-frontier-inno/4469693)  
@@ -61,6 +63,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Assess and improve monitoring posture at scale across Azure resources*
     - [Azure Copilot Observability Agent](https://techcommunity.microsoft.com/blog/azureobservabilityblog/azure-copilot-observability-agent-intelligent-investigations-across-your-azure-s/4469719)  
       *AI-powered intelligent investigations and troubleshooting across Azure services*
+    - [Azure Monitor Private Link Scope (AMPLS) Scale Limits - General Availability](https://techcommunity.microsoft.com/blog/azureobservabilityblog/generally-available---azure-monitor-private-link-scope-ampls-scale-limits-increa/4471482)  
+      *Increased scale limits for private connectivity to Azure Monitor services*
     - [Admin Center Virtualization Mode](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/introducing-windows-admin-center-virtualization-mode-vmode/4471024)  
       *Enhanced Windows Admin Center capabilities for virtualized environments*
     - [Kubernetes Center](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-kubernetes-center-preview-on-azure-portal/4471110)  
@@ -337,4 +341,4 @@ This list is maintained by Matt Hansen. Feel free to suggest additions or correc
 
 ---
 
-*Last updated: November 19, 2025*
+*Last updated: November 20, 2025*
