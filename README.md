@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 20, 2025 at 3:44PM EST
+**Last Updated:** November 21, 2025 at 10:29AM EST
 
 **🎯 What's Inside:** 100+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -120,6 +120,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *DNS-based threat protection using Microsoft threat intelligence for enhanced security*
     - [Network Watcher Agentless Connection Troubleshooting - Preview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview#agentless-experience-preview)  
       *Simplified network connectivity diagnostics without requiring VM agents*
+    - [AKS Network Topology Visualization - Preview](https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology#aks-cluster-topology-visualization-preview)  
+      *Visual representation of AKS cluster network topology and connectivity patterns*
 
 - **Misc:**
     - **IoT Announcements:**
@@ -359,4 +361,4 @@ This list is maintained by Matt Hansen. Feel free to suggest additions or correc
 
 ---
 
-*Last updated: November 20, 2025*
+*Last updated: November 21, 2025*
