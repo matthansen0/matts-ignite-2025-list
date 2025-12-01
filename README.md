@@ -258,7 +258,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Multi-language patient data anonymization for healthcare compliance*
 
 - **Migration Tools:**
-    - Oracle to PostgreSQL Migration in VS Code (link pending)  
+    - [Oracle to PostgreSQL Migration in VS Code](https://learn.microsoft.com/en-us/azure/postgresql/migrate/oracle-schema-conversions/schema-conversions-app-quickstart)  
       *Development tools for database migration workflows*
 
 ---
